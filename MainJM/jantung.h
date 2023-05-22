@@ -2,7 +2,7 @@
 #ifndef JANTUNG_H
 #define JANTUNG_H
 
-#using <iostream>
+#include <iostream>
 using namespace std;
 
 class jantung {
