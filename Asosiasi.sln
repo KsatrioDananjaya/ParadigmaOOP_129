@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pewarisan", "pewarisan\pewa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainIA2", "MainIA2\MainIA2.vcxproj", "{D37ADAC7-755C-4777-9344-1281CF579A4D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainJM", "MainJM\MainJM.vcxproj", "{08F23E36-AEF3-4703-8A70-4EDA7EFDF09F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{D37ADAC7-755C-4777-9344-1281CF579A4D}.Release|x64.Build.0 = Release|x64
 		{D37ADAC7-755C-4777-9344-1281CF579A4D}.Release|x86.ActiveCfg = Release|Win32
 		{D37ADAC7-755C-4777-9344-1281CF579A4D}.Release|x86.Build.0 = Release|Win32
+		{08F23E36-AEF3-4703-8A70-4EDA7EFDF09F}.Debug|x64.ActiveCfg = Debug|x64
+		{08F23E36-AEF3-4703-8A70-4EDA7EFDF09F}.Debug|x64.Build.0 = Debug|x64
+		{08F23E36-AEF3-4703-8A70-4EDA7EFDF09F}.Debug|x86.ActiveCfg = Debug|Win32
+		{08F23E36-AEF3-4703-8A70-4EDA7EFDF09F}.Debug|x86.Build.0 = Debug|Win32
+		{08F23E36-AEF3-4703-8A70-4EDA7EFDF09F}.Release|x64.ActiveCfg = Release|x64
+		{08F23E36-AEF3-4703-8A70-4EDA7EFDF09F}.Release|x64.Build.0 = Release|x64
+		{08F23E36-AEF3-4703-8A70-4EDA7EFDF09F}.Release|x86.ActiveCfg = Release|Win32
+		{08F23E36-AEF3-4703-8A70-4EDA7EFDF09F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
