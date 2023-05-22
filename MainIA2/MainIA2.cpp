@@ -2,11 +2,10 @@
 #include <string>
 using namespace std;
 
-#include "anak_h"
-#include "ibu_h"
+#include "anak.h"
+#include "ibu.h"
 
 int main()
 {
     std::cout << "Hello World!\n";
 }
-
